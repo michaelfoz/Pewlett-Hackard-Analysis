@@ -51,7 +51,7 @@ CREATE TABLE titles (
 
 CREATE TABLE dept_emp (
   emp_no INT NOT NULL,
-  dept_no INT NOT NULL,
+  dept_no VARCHAR (4) NOT NULL,
   from_date INT NOT NULL,
   to_date INT NOT NULL,
   FOREIGN KEY (emp_no) REFERENCES employees (emp_no),
