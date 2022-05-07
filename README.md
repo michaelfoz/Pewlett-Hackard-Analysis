@@ -24,6 +24,8 @@
 #### ● (1) The retirement_titles.csv file displays all retiring employees, containing each employee's employee number (emp_no), first and last names (first_name, last_name), titles (title), and their from_date and their to_date. Using the query: 
 #### SELECT * FROM retirement_titles;
 #### we are able to see that there are a total of 133,776 employees within the table.
+#### <img width="642" alt="retirement_titles_screen_shot" src="https://user-images.githubusercontent.com/101305696/167232924-afe504c0-9ecd-4a5d-8947-b33a02d5f0e2.png">
+
 
 #### ● (2) The unique_titles.csv file derives from retirement_titles.csv and has a focus on the number of employees who are about to retire along with their most recent job title(s). The table consists of the employee's employee number (emp_no), the employee's first and last names (first_name, last_name), and title (title). 
 
@@ -33,5 +35,11 @@
 
 ## Summary: 
 ### Provide high-level responses to the following questions, then provide two additional queries or tables that may provide more insight into the upcoming "silver tsunami."
-#### How many roles will need to be filled as the "silver tsunami" begins to make an impact?
-#### Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees?
+### How many roles will need to be filled as the "silver tsunami" begins to make an impact? 
+#### A total of 72,458 roles will need to be replaced should the "silver tsunami" take place.
+#### <img width="526" alt="retiring_titles_screen_shot" src="https://user-images.githubusercontent.com/101305696/167232709-c2eb2aa2-7617-4dda-913d-7f4114e1e662.png">
+
+### Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees? 
+#### A total of 1,549 retirement-readyh employees are qualified to mentor the next generation of Pewlett Hackard employees, which is presumably not enough to account for the 70,000+ roles that will need to be replaced by next generation.
+#### <img width="641" alt="mentorship_eligibility_screen_shot" src="https://user-images.githubusercontent.com/101305696/167232736-6ab76ba2-2bae-4964-8500-cfea97eb96a0.png"> 
+
