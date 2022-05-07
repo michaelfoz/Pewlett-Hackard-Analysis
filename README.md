@@ -28,6 +28,10 @@
 #### ● (2) The unique_titles.csv file derives from retirement_titles.csv and has a focus on the number of employees who are about to retire along with their most recent job title(s). The table consists of the employee's employee number (emp_no), the employee's first and last names (first_name, last_name), and title (title). 
 
 #### ● (3) The retiring_employees.csv file summarizes the employee title as a category and displays or sums up the total of how many employees working as said title--whether the title would be Senior Engineer, Senior Staff, Engineer, Staff, Technique Leadewr, Assistant Engineer or Manger--are retiring. 
-#### ● mentorship_eligibility.csv
 
 #### ● (4) The mentorship_eligibility.csv file is the company's main focus, wherein there is a focus on current employees (to_date of 9999-01-01) born between January 1, 1965 (1965-01-01) and December 31, 1965 (1965-12-31).
+
+## Summary: 
+### Provide high-level responses to the following questions, then provide two additional queries or tables that may provide more insight into the upcoming "silver tsunami."
+#### How many roles will need to be filled as the "silver tsunami" begins to make an impact?
+#### Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees?
